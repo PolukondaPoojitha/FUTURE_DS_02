@@ -22,6 +22,6 @@ Customers with month-to-month contracts had higher churn.
 Long-term customers showed better retention.
 Electronic check users had increased churn risk.
 Internet service type impacted customer behavior.
-🚀 Outcome
+🛩️Outcome
 
 This project improved my understanding of customer retention analytics and dashboard storytelling using Power BI.
